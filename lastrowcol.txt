@@ -1,5 +1,0 @@
-    lRow = Sheets("errlog").Cells(Rows.Count, 1).End(xlUp).Row + 1
-    lCol = Sheets("errlog").Cells(1, Columns.Count).End(xlToLeft).Column
-	
-	https://analystcave.com/excel-vba-dictionary-arrays-and-other-data-structures/
-	
